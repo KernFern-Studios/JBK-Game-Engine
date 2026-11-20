@@ -8,3 +8,16 @@ JBK-Game-Engine is a simple game engine with it's own:
 And more!
 
 Made by @KernFern-Studios, KernFern Studios is an independent Game & Software Development Studio, they make **file types**, and simple **software** sometimes.
+
+Here is a simple, 5 line game for you!:
+
+
+GameWindow(Title: Tiny Bounce)
+
+Make var name: (Player)
+
+Player Shape: Circle
+
+Player Position: (200, 200)
+
+Gravity Pull: 9.8
